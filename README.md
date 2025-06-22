@@ -5,9 +5,9 @@ Web Development Internship at **ApexPlanet**
 
 ---
 
-## 🔗 Download or View Project Files
+## 🔗 Download Project Files
 
-👉 👉 [Click here to view all Task Files on Google Drive](https://drive.google.com/file/d/1NQAlGtTXtZGanyG93a5-ZAet7rAEgMkd/view?usp=sharing)
+👉 👉 [Download All 5 Tasks as ZIP from Google Drive](https://drive.google.com/file/d/1NQAlGtTXtZGanyG93a5-ZAet7rAEgMkd/view?usp=sharing)
 
 ---
 
