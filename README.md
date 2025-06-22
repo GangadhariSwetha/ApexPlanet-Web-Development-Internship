@@ -7,8 +7,7 @@ Web Development Internship at **ApexPlanet**
 
 ## 🔗 Download or View Project Files
 
-👉 👉 [Click here to view all Task Files on Google Drive](https://drive.google.com/drive/folders/1npfQtWiBXB6Jrzgby-owt5acMhqkvxz1?usp=drive_link)
-
+👉 👉 [Click here to view all Task Files on Google Drive](https://drive.google.com/file/d/1NQAlGtTXtZGanyG93a5-ZAet7rAEgMkd/view?usp=sharing)
 
 ---
 
